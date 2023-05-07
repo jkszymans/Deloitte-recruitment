@@ -24,7 +24,7 @@ Python/Django
 
 React
 
-### Aby poprawnie sprawdzić działanie komponentów należy wcześniej uruchomić lokalnie api.
+### Aby poprawnie sprawdzić działanie komponentów należy wcześniej uruchomić lokalnie api oraz zainstalować paczki komendą npm install, a następnie uruchomić npm start
 
 1.Napisz komponent w React, który wyświetli listę produktów pobraną z API. Komponent powinien umożliwiać sortowanie produktów po nazwie lub cenie, a także filtrowanie po nazwie.
 
