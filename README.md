@@ -2,6 +2,8 @@ Polecenia rekrutacyjne:
 
 Python/Django
 
+### Do zadań z Django użyłem najprostszego domyślnego boilerplate'u. Dodatkowo nie zajmowałem się także chowaniem secretów np. SECRET_KEY. Do obsługi zależności pomiędzy paczkami użyłem poetry. :)
+
 1.Napisz klasę w Django, która będzie zarządzać bazą danych użytkowników. Klasa powinna mieć metody umożliwiające dodawanie, usuwanie i edytowanie użytkowników, a także pobieranie informacji o nich.
 
 ### Przykładem takiej klasy jest api->users->serializers->UserSerializer, która potrafi dodawać, usuwać, edytować jak i serializować dane użytkownika, jednak na potrzeby zadania rekrutacyjnego stworzyłem dodatkową, poglądową klasę api->users->service->UserManager
